@@ -1,4 +1,4 @@
-# Day 1: Interquartile Range
+# Day 1: Standard Deviation
 
 ### Output Format
 
