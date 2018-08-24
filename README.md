@@ -10,3 +10,4 @@ HackerRank challenges solutions in *Node.js*
 - [Day 0: Mean, Median, and Mode](basic-statistics)
 - [Day 0: Weighted Mean](weighted-mean)
 - [Day 1: Quartiles](quartiles)
+- [Day 1: Interquartile Range](interquartile-range)
