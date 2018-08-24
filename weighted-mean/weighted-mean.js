@@ -16,10 +16,7 @@ function processData(input) {
 	wm = (mxw / sw).toFixed(1)
 
 	console.log(wm)
-} 
-
-let s = '5\n10 40 30 50 20\n1 2 3 4 5'
-processData(s)
+}
 
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
