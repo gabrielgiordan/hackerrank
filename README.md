@@ -1,6 +1,6 @@
-# HackerRank ✅
+# HackerRank
 
-HackerRank challenges solutions in Node.js
+HackerRank challenges solutions in *Node.js*
 
 ### Arrays 
 - [2D Array - DS](2d-array)
