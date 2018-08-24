@@ -8,3 +8,4 @@ HackerRank challenges solutions in Node.js
 
 ### 10 Days of Statistics
 - [Day 0: Mean, Median, and Mode](basic-statistics)
+- [Day 0: Weighted Mean](weighted-mean)
