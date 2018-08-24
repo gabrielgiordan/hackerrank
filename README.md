@@ -11,3 +11,4 @@ HackerRank challenges solutions in *Node.js*
 - [Day 0: Weighted Mean](weighted-mean)
 - [Day 1: Quartiles](quartiles)
 - [Day 1: Interquartile Range](interquartile-range)
+- [Day 1: Standard Deviation](standard-deviation)
