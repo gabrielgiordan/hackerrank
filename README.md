@@ -13,3 +13,6 @@ HackerRank challenges solutions in *Node.js*
 - [Day 1: Quartiles](quartiles)
 - [Day 1: Interquartile Range](interquartile-range)
 - [Day 1: Standard Deviation](standard-deviation)
+- [Day 2: Basic Probability](s10-mcq-1)
+- [Day 2: More Dice](s10-mcq-2)
+- [Day 2: Compound Event Probability](s10-mcq-3)
