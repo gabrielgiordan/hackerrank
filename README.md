@@ -3,7 +3,7 @@
 HackerRank challenges solutions in *JavaScript* / *Node.js*
 
 
-### 10 Days of Statistics
+## 10 Days of Statistics
 - [Day 0: Mean, Median, and Mode](10-days-of-statistics/s10-basic-statistics)
 - [Day 0: Weighted Mean](10-days-of-statistics/s10-weighted-mean)
 - [Day 1: Quartiles](10-days-of-statistics/s10-quartiles)
@@ -22,13 +22,13 @@ HackerRank challenges solutions in *JavaScript* / *Node.js*
 - [Day 5: Normal Distribution II](10-days-of-statistics/s10-normal-distribution-2)
 
 
-### Interview Preparation Kit
+## Interview Preparation Kit
 - [2D Array - DS](interview-preparation-kit/2d-array)
 - [Arrays: Left Rotation](interview-preparation-kit/array-left-rotation)
 
 
-### Algorithms
-## Warmup
+## Algorithms
+### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets)
 - [A Very Big Sum](algorithms/warmup/a-very-big-sum)
 - [Diagonal Difference](algorithms/warmup/diagonal-difference)
@@ -38,11 +38,11 @@ HackerRank challenges solutions in *JavaScript* / *Node.js*
 - [Birthday Cake Candles](algorithms/warmup/birthday-cake-candles)
 - [Time Conversion](algorithms/warmup/time-conversion)
 
-## Implementations
+### Implementations
 - [Grading Students](algorithms/implementation/grading)
 - [Apple and Orange](algorithms/implementation/apple-and-orange)
 - [Kangaroo](algorithms/implementation/kangaroo)
 
-## Constructive Algorithms 
+### Constructive Algorithms 
 - [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos)
 
