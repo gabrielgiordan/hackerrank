@@ -17,6 +17,9 @@
 - [Day 5: Poison Distribution II](10-days-of-statistics/s10-poisson-distribution-2)
 - [Day 5: Normal Distribution I](10-days-of-statistics/s10-normal-distribution-1)
 - [Day 5: Normal Distribution II](10-days-of-statistics/s10-normal-distribution-2)
+- [Day 6: The Central Limit Theorem I](10-days-of-statistics/s10-the-central-limit-theorem-1)
+- [Day 6: The Central Limit Theorem II](10-days-of-statistics/s10-the-central-limit-theorem-2)
+- [Day 6: The Central Limit Theorem III](10-days-of-statistics/s10-the-central-limit-theorem-3)
 
 
 ## Interview Preparation Kit
