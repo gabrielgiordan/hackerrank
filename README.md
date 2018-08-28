@@ -1,7 +1,4 @@
-# HackerRank
-
-HackerRank challenges solutions in *JavaScript* / *Node.js*
-
+[![HackerRank](https://raw.githubusercontent.com/gabrielgiordan/HackerRank/master/hacker-rank-logo.png)](https://www.hackerrank.com/gabrielgiordano)
 
 ## 10 Days of Statistics
 - [Day 0: Mean, Median, and Mode](10-days-of-statistics/s10-basic-statistics)
