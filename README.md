@@ -44,6 +44,7 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Grading Students](algorithms/implementation/grading)
 - [Apple and Orange](algorithms/implementation/apple-and-orange)
 - [Kangaroo](algorithms/implementation/kangaroo)
+- [Between Two Sets](algorithms/implementation/between-two-sets)
 
 ### Constructive Algorithms 
 - [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos)
