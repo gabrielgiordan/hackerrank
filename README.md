@@ -46,6 +46,7 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Kangaroo](algorithms/implementation/kangaroo)
 - [Between Two Sets](algorithms/implementation/between-two-sets)
 - [Breaking the Records](algorithms/implementation/breaking-best-and-worst-records)
+- [Birthday Chocolate](algorithms/implementation/the-birthday-bar.js)
 
 ### Constructive Algorithms 
 - [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos)
