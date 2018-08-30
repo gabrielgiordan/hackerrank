@@ -23,7 +23,7 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Day 6: The Central Limit Theorem II](10-days-of-statistics/s10-the-central-limit-theorem-2)
 - [Day 6: The Central Limit Theorem III](10-days-of-statistics/s10-the-central-limit-theorem-3)
 - [Day 7: Pearson Correlation Coefficient I](10-days-of-statistics/s10-pearson-correlation-coefficient)
-- [Day 7: Day 7: Spearman's Rank Correlation Coefficient](10-days-of-statistics/s10-spearman-rank-correlation-coefficient)
+- [Day 7: Spearman's Rank Correlation Coefficient](10-days-of-statistics/s10-spearman-rank-correlation-coefficient)
 
 
 ## Interview Preparation Kit
