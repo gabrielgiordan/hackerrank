@@ -32,6 +32,20 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 
 
 ## Algorithms
+
+### Constructive Algorithms 
+- [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos.js)
+
+### Implementations
+- [Grading Students](algorithms/implementation/grading.js)
+- [Apple and Orange](algorithms/implementation/apple-and-orange.js)
+- [Kangaroo](algorithms/implementation/kangaroo.js)
+- [Between Two Sets](algorithms/implementation/between-two-sets.js)
+- [Breaking the Records](algorithms/implementation/breaking-best-and-worst-records.js)
+- [Birthday Chocolate](algorithms/implementation/the-birthday-bar.js)
+- [Divisible Sum Pairs](algorithms/implementation/divisible-sum-pairs.js)
+- [Migratory Birds](algorithms/implementation/migratory-birds.js)
+
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
 - [A Very Big Sum](algorithms/warmup/a-very-big-sum.js)
@@ -41,15 +55,3 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Mini-Max Sum](algorithms/warmup/mini-max-sum.js)
 - [Birthday Cake Candles](algorithms/warmup/birthday-cake-candles.js)
 - [Time Conversion](algorithms/warmup/time-conversion.js)
-
-### Implementations
-- [Grading Students](algorithms/implementation/grading.js)
-- [Apple and Orange](algorithms/implementation/apple-and-orange.js)
-- [Kangaroo](algorithms/implementation/kangaroo.js)
-- [Between Two Sets](algorithms/implementation/between-two-sets.js)
-- [Breaking the Records](algorithms/implementation/breaking-best-and-worst-records.js)
-- [Birthday Chocolate](algorithms/implementation/the-birthday-bar.js.js)
-
-### Constructive Algorithms 
-- [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos.js)
-
