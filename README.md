@@ -56,6 +56,11 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Forming a Magic Square](algorithms/implementation/magic-square-forming.js)
 - [Picking Numbers](algorithms/implementation/picking-numbers.js)
 - [Climbing the Leaderboard](algorithms/implementation/climbing-the-leaderboard.js)
+- [The Hurdle Race](algorithms/implementation/the-hurdle-race.js)
+- [Designer PDF Viewer](algorithms/implementation/designer-pdf-viewer.js)
+- [Utopian Tree](algorithms/implementation/utopian-tree.js)
+- [Angry Professor](algorithms/implementation/angry-professor.js)
+
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
