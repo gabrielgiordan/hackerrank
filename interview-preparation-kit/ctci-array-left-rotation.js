@@ -1,12 +1,12 @@
 // Complete the rotLeft function below.
 function rotLeft(a, d) {
-    let r = []
+  let r = []
 
-    d %= a.length
+  d %= a.length
 
-    for (let i = 0; i < a.length; ++i) {
-        r[i] = a[(i + d) % a.length]
-    }
+  for (let i = 0; i < a.length; ++i) {
+    r[i] = a[(i + d) % a.length]
+  }
 
-    return r
+  return r
 }

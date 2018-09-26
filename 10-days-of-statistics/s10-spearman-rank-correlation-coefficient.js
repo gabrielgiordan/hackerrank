@@ -1,26 +1,26 @@
 function processData(input) {
-    //Enter your code here
-	function spearmansRankCorrelationCoefficient(x, y, n) {
-		
-		let xs = [...x].sort((a, b) => a - b),
-			ys = [...y].sort((a, b) => a - b),
-			d = 0
+  //Enter your code here
+  function spearmansRankCorrelationCoefficient(x, y, n) {
 
-		for (let i = n; i-- > 0;) {
-			d += Math.pow(xs.indexOf(x[i]) - ys.indexOf(y[i]), 2)
-		}
+    let xs = [...x].sort((a, b) => a - b),
+      ys = [...y].sort((a, b) => a - b),
+      d = 0
 
-		return 1 - ((6 * d) / (n * (Math.pow(n, 2) - 1)))
-	}
+    for (let i = n; i-- > 0;) {
+      d += Math.pow(xs.indexOf(x[i]) - ys.indexOf(y[i]), 2)
+    }
 
-    input = input.split('\n')
+    return 1 - ((6 * d) / (n * (Math.pow(n, 2) - 1)))
+  }
 
-    let n = parseInt(input[0]),
-		x = input[1].split(' ').map(Number).slice(0, n),
-		y = input[2].split(' ').map(Number).slice(0, n)
+  input = input.split('\n')
 
-    console.log(spearmansRankCorrelationCoefficient(x, y, n).toFixed(3))
-} 
+  let n = parseInt(input[0]),
+    x = input[1].split(' ').map(Number).slice(0, n),
+    y = input[2].split(' ').map(Number).slice(0, n)
+
+  console.log(spearmansRankCorrelationCoefficient(x, y, n).toFixed(3))
+}
 
 // processData(`10
 // 106 86 100 101 99 103 97 113 112 110

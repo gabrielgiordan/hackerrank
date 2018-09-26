@@ -1,47 +1,47 @@
 function processData(input) {
-    //Enter your code here
-	function mean(x, n) {
-		return x.reduce((a, b) => a + b) / n
-	}
+  //Enter your code here
+  function mean(x, n) {
+    return x.reduce((a, b) => a + b) / n
+  }
 
-	function covariance(x, y, n) {
-		let c = 0,
-			mx = mean(x, n),
-			my = mean(y, n)
+  function covariance(x, y, n) {
+    let c = 0,
+      mx = mean(x, n),
+      my = mean(y, n)
 
-		for (let i = n; i-- > 0;) {
-			c += (x[i] - mx) * (y[i] - my)
-		}
+    for (let i = n; i-- > 0;) {
+      c += (x[i] - mx) * (y[i] - my)
+    }
 
-		c /= n - 1
+    c /= n - 1
 
-		return c
-	}
+    return c
+  }
 
-	function standardDeviation(x, n) {
-		let v = 0,
-			m = mean(x, n)
-		
-		for (let i = n; i-- > 0;)
-			v += Math.pow(x[i] - m, 2)
+  function standardDeviation(x, n) {
+    let v = 0,
+      m = mean(x, n)
 
-		v /= n - 1
+    for (let i = n; i-- > 0;)
+      v += Math.pow(x[i] - m, 2)
 
-		return Math.sqrt(v)
-	}
+    v /= n - 1
 
-	function pearsonCorrelationCoefficient(x, y, n) {
-		return covariance(x, y, n) / (standardDeviation(x, n) * standardDeviation(y, n))
-	}
+    return Math.sqrt(v)
+  }
 
-    input = input.split('\n')
+  function pearsonCorrelationCoefficient(x, y, n) {
+    return covariance(x, y, n) / (standardDeviation(x, n) * standardDeviation(y, n))
+  }
 
-    let n = parseInt(input[0]),
-		x = input[1].split(' ').map(Number),
-		y = input[2].split(' ').map(Number)
+  input = input.split('\n')
 
-    console.log(pearsonCorrelationCoefficient(x, y, n).toFixed(3))
-} 
+  let n = parseInt(input[0]),
+    x = input[1].split(' ').map(Number),
+    y = input[2].split(' ').map(Number)
+
+  console.log(pearsonCorrelationCoefficient(x, y, n).toFixed(3))
+}
 
 processData(`10
 10 9.8 8 7.8 7.7 7 6 5 4 2
