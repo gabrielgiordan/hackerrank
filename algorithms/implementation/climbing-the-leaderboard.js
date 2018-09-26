@@ -1,4 +1,4 @@
-function climbingLeaderboard(scores, alice) {
+function climbingLeaderboard(scores, alice) { // best O(n + log(m)), worst O(n + m)
 
   let r = []
 
