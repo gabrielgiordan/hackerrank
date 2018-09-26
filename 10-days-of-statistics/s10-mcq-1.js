@@ -3,13 +3,13 @@ let c = 0
 let p = 0
 
 for (var i = 0; i < d.length; i++) {
-	for (var j = 0; j < d.length; j++) {
-		if (d[i] + d[j] <= 9) {
-			console.log(d[i] + ' + ' + d[j])
-			c++
-		}
-		p++
-	}
+  for (var j = 0; j < d.length; j++) {
+    if (d[i] + d[j] <= 9) {
+      console.log(d[i] + ' + ' + d[j])
+      c++
+    }
+    p++
+  }
 }
 
 function gcd(a, b) {

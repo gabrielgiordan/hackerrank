@@ -46,6 +46,16 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Birthday Chocolate](algorithms/implementation/the-birthday-bar.js)
 - [Divisible Sum Pairs](algorithms/implementation/divisible-sum-pairs.js)
 - [Migratory Birds](algorithms/implementation/migratory-birds.js)
+- [Day of the Programmer](algorithms/implementation/day-of-the-programmer.js)
+- [Bon Appétit](algorithms/implementation/bon-appetit.js)
+- [Sock Merchant](algorithms/implementation/sock-merchant.js)
+- [Drawing Book](algorithms/implementation/drawing-book.js)
+- [Counting Valleys](algorithms/implementation/counting-valleys.js)
+- [Eletronics Shop](algorithms/implementation/electronics-shop.js)
+- [Cats and a Mouse](algorithms/implementation/cats-and-a-mouse.js)
+- [Forming a Magic Square](algorithms/implementation/magic-square-forming.js)
+- [Picking Numbers](algorithms/implementation/picking-numbers.js)
+- [Climbing the Leaderboard](algorithms/implementation/climbing-the-leaderboard.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)

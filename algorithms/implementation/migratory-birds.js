@@ -1,25 +1,25 @@
 // Complete the migratoryBirds function below.
 function migratoryBirds(arr) {
-	arr = arr.sort((a, b) => a - b)
+  arr = arr.sort((a, b) => a - b)
 
-	let r = arr.length,
-		c = 0,
-		s = 0
+  let r = arr.length,
+    c = 0,
+    s = 0
 
-	for (let i = arr.length; --i > 1;) {
-		if (arr[i] > arr[i - 1]) {
-			if (r - i >= c) {
-				c = r - i
-				s = i
-			}
-			r = i
-		}
-	}
+  for (let i = arr.length; --i > 1;) {
+    if (arr[i] > arr[i - 1]) {
+      if (r - i >= c) {
+        c = r - i
+        s = i
+      }
+      r = i
+    }
+  }
 
-	if (r >= c)
-		s = 0
+  if (r >= c)
+    s = 0
 
-	return arr[s]
+  return arr[s]
 }
 
 console.log(migratoryBirds([1, 4, 4, 4, 5, 3]))
