@@ -59,6 +59,9 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Designer PDF Viewer](algorithms/implementation/designer-pdf-viewer.js)
 - [Utopian Tree](algorithms/implementation/utopian-tree.js)
 - [Angry Professor](algorithms/implementation/angry-professor.js)
+- [Beautiful Days at the Movies](algorithms/implementation/beautiful-days-at-the-movies.js)
+- [Viral Advertising](algorithms/implementation/strange-advertising.js)
+- [Save the Prisoner!](algorithms/implementation/save-the-prisoner.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
@@ -69,6 +72,3 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Mini-Max Sum](algorithms/warmup/mini-max-sum.js)
 - [Birthday Cake Candles](algorithms/warmup/birthday-cake-candles.js)
 - [Time Conversion](algorithms/warmup/time-conversion.js)
-- [Beautiful Days at the Movies](algorithms/implementation/beautiful-days-at-the-movies.js)
-- [Viral Advertising](algorithms/implementation/strange-advertising.js)
-- [Save the Prisoner!](algorithms/implementation/save-the-prisoner.js)
