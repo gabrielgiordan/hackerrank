@@ -31,7 +31,6 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [2D Array - DS](interview-preparation-kit/2d-array.js)
 - [Arrays: Left Rotation](interview-preparation-kit/array-left-rotation.js)
 
-
 ## Algorithms
 
 ### Constructive Algorithms 
@@ -61,7 +60,6 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Utopian Tree](algorithms/implementation/utopian-tree.js)
 - [Angry Professor](algorithms/implementation/angry-professor.js)
 
-
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
 - [A Very Big Sum](algorithms/warmup/a-very-big-sum.js)
@@ -71,3 +69,6 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Mini-Max Sum](algorithms/warmup/mini-max-sum.js)
 - [Birthday Cake Candles](algorithms/warmup/birthday-cake-candles.js)
 - [Time Conversion](algorithms/warmup/time-conversion.js)
+- [Beautiful Days at the Movies](algorithms/implementation/beautiful-days-at-the-movies.js)
+- [Viral Advertising](algorithms/implementation/strange-advertising.js)
+- [Save the Prisoner!](algorithms/implementation/save-the-prisoner.js)
