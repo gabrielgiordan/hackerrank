@@ -62,6 +62,11 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Beautiful Days at the Movies](algorithms/implementation/beautiful-days-at-the-movies.js)
 - [Viral Advertising](algorithms/implementation/strange-advertising.js)
 - [Save the Prisoner!](algorithms/implementation/save-the-prisoner.js)
+- [Circular Array Rotation](algorithms/implementation/circular-array-rotation.js)
+- [Sequence Equation](algorithms/implementation/permutation-equation.js)
+- [Jumping on the Clouds: Revisited](algorithms/implementation/jumping-on-the-clouds-revisited.js)
+- [Find Digits](algorithms/implementation/find-digits.js)
+
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
