@@ -66,7 +66,10 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Sequence Equation](algorithms/implementation/permutation-equation.js)
 - [Jumping on the Clouds: Revisited](algorithms/implementation/jumping-on-the-clouds-revisited.js)
 - [Find Digits](algorithms/implementation/find-digits.js)
-
+- [Extra Long Factorials](algorithms/implementation/extra-long-factorials.js)
+- [Append and Delete](algorithms/implementation/append-and-delete.js)
+- [Sherlock and Squares](algorithms/implementation/sherlock-and-squares.js)
+- [Library Fine](algorithms/implementation/library-fine.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
