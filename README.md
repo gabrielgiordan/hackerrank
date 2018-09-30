@@ -70,6 +70,7 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Append and Delete](algorithms/implementation/append-and-delete.js)
 - [Sherlock and Squares](algorithms/implementation/sherlock-and-squares.js)
 - [Library Fine](algorithms/implementation/library-fine.js)
+- [Cut the Sticks](algorithms/implementation/cut-the-sticks.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
