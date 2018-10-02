@@ -71,6 +71,9 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Sherlock and Squares](algorithms/implementation/sherlock-and-squares.js)
 - [Library Fine](algorithms/implementation/library-fine.js)
 - [Cut the Sticks](algorithms/implementation/cut-the-sticks.js)
+- [Non-Divisible Subset](algorithms/implementation/non-divisible-subset.js)
+- [Repeated String](algorithms/implementation/repeated-string.js)
+- [Jumping on the Clouds](algorithms/implementation/jumping-on-the-clouds.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
