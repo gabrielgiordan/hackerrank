@@ -74,6 +74,9 @@ HackerRank challenges solutions in *JavaScript* / *Node.js* by [Gabriel Giordano
 - [Non-Divisible Subset](algorithms/implementation/non-divisible-subset.js)
 - [Repeated String](algorithms/implementation/repeated-string.js)
 - [Jumping on the Clouds](algorithms/implementation/jumping-on-the-clouds.js)
+- [Equalize the Array](algorithms/implementation/equality-in-a-array.js)
+- [Queen's Attack II](algorithms/implementation/queens-attack-2.js)
+- [ACM ICPC Team](algorithms/implementation/acm-icpc-team.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
