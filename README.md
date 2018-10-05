@@ -46,48 +46,50 @@
 ### Constructive Algorithms
 - [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos.js)
 
-### Implementations
-- [Grading Students](algorithms/implementation/grading.js)
-- [Apple and Orange](algorithms/implementation/apple-and-orange.js)
-- [Kangaroo](algorithms/implementation/kangaroo.js)
-- [Between Two Sets](algorithms/implementation/between-two-sets.js)
-- [Breaking the Records](algorithms/implementation/breaking-best-and-worst-records.js)
-- [Birthday Chocolate](algorithms/implementation/the-birthday-bar.js)
-- [Divisible Sum Pairs](algorithms/implementation/divisible-sum-pairs.js)
-- [Migratory Birds](algorithms/implementation/migratory-birds.js)
-- [Day of the Programmer](algorithms/implementation/day-of-the-programmer.js)
-- [Bon Appétit](algorithms/implementation/bon-appetit.js)
-- [Sock Merchant](algorithms/implementation/sock-merchant.js)
-- [Drawing Book](algorithms/implementation/drawing-book.js)
-- [Counting Valleys](algorithms/implementation/counting-valleys.js)
-- [Eletronics Shop](algorithms/implementation/electronics-shop.js)
-- [Cats and a Mouse](algorithms/implementation/cats-and-a-mouse.js)
-- [Forming a Magic Square](algorithms/implementation/magic-square-forming.js)
-- [Picking Numbers](algorithms/implementation/picking-numbers.js)
-- [Climbing the Leaderboard](algorithms/implementation/climbing-the-leaderboard.js)
-- [The Hurdle Race](algorithms/implementation/the-hurdle-race.js)
-- [Designer PDF Viewer](algorithms/implementation/designer-pdf-viewer.js)
-- [Utopian Tree](algorithms/implementation/utopian-tree.js)
-- [Angry Professor](algorithms/implementation/angry-professor.js)
-- [Beautiful Days at the Movies](algorithms/implementation/beautiful-days-at-the-movies.js)
-- [Viral Advertising](algorithms/implementation/strange-advertising.js)
-- [Save the Prisoner!](algorithms/implementation/save-the-prisoner.js)
-- [Circular Array Rotation](algorithms/implementation/circular-array-rotation.js)
-- [Sequence Equation](algorithms/implementation/permutation-equation.js)
-- [Jumping on the Clouds: Revisited](algorithms/implementation/jumping-on-the-clouds-revisited.js)
-- [Find Digits](algorithms/implementation/find-digits.js)
-- [Extra Long Factorials](algorithms/implementation/extra-long-factorials.js)
-- [Append and Delete](algorithms/implementation/append-and-delete.js)
-- [Sherlock and Squares](algorithms/implementation/sherlock-and-squares.js)
-- [Library Fine](algorithms/implementation/library-fine.js)
-- [Cut the Sticks](algorithms/implementation/cut-the-sticks.js)
-- [Non-Divisible Subset](algorithms/implementation/non-divisible-subset.js)
-- [Repeated String](algorithms/implementation/repeated-string.js)
-- [Jumping on the Clouds](algorithms/implementation/jumping-on-the-clouds.js)
-- [Equalize the Array](algorithms/implementation/equality-in-a-array.js)
-- [Queen's Attack II](algorithms/implementation/queens-attack-2.js)
-- [ACM ICPC Team](algorithms/implementation/acm-icpc-team.js)
-- [Matrix Layer Rotation](algorithms/implementation/matrix-rotation-algo.js)
+## Implementation
+|   | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---------------:|:--------:|:----------:|:------:|:----:|
+| ⭐ |[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)| [JavaScript](algorithms/implementation/matrix-rotation-algo.js) | Hard | 80 | Math solution to the problem, _O(1)_ if the loop to print the result isn't considered, otherwise _O(m*n)_ |
+| ⭐ |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [JavaScript](algorithms/implementation/acm-icpc-team.js) | Easy | 25 | Using bitwise operations, and a custom Hamming Weight implementation to count ones, because the HackerRank's v8 version hasn't yet a BigInt implementation. Best case _O(n^2)_ where _n_ is the topics length |
+| ⭐ |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [JavaScript](algorithms/implementation/queens-attack-2.js) | Medium | 30 | _O(k)_, where _k_ is the number of obstacles |
+| |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [JavaScript](algorithms/implementation/equality-in-a-array.js) | Easy | 20 | _O(n)_ |
+| ⭐ |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [JavaScript](algorithms/implementation/jumping-on-the-clouds.js) | Easy | 20 | _O(log n)_ |
+| ⭐ |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [JavaScript](algorithms/implementation/repeated-string.js) | Easy | 20 | The algorithm doesn't count the string a second time, both best and worst case is _O(n)_ where _n_ is the length of the string |
+|  |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)| [JavaScript](algorithms/implementation/non-divisible-subset.js) | Medium | 20 |  |
+|  |[Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| [JavaScript](algorithms/implementation/cut-the-sticks.js) | Easy | 25 |  |
+| |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [JavaScript](algorithms/implementation/library-fine.js) | Easy | 15 | _O(1)_ |
+| |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [JavaScript](algorithms/implementation/sherlock-and-squares.js) | Easy | 20 | _O(1)_ |
+| |[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)| [JavaScript](algorithms/implementation/append-and-delete.js) | Easy | 20 | _O(min(s, t))_ |
+| |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [JavaScript](algorithms/implementation/extra-long-factorials.js) | Medium | 20 |  |
+| |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [JavaScript](algorithms/implementation/find-digits.js) | Easy | 25 | _O(n)_ |
+| |[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [JavaScript](algorithms/implementation/jumping-on-the-clouds-revisited.js) | Easy | 15 | _O(n / k)_ where _k_ is the number of jumps |
+| |[Sequence Equation](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [JavaScript](algorithms/implementation/permutation-equation.js) | Easy | 20 | |
+| |[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)| [JavaScript](algorithms/implementation/circular-array-rotation.js) | Easy | 20 | |
+| |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [JavaScript](algorithms/implementation/save-the-prisoner.js) | Easy | 15 | _O(1)_ |
+| ⭐ |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| [JavaScript](algorithms/implementation/save-the-prisoner.js) | Easy | 15 | Alternative way to solve it using this integer sequence formula: https://oeis.org/A061418 |
+| |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| [JavaScript](algorithms/implementation/beautiful-days-at-the-movies.js) | Easy | 15 | _O(n)_ |
+| |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| [JavaScript](algorithms/implementation/angry-professor.js) | Easy | 20 | _O(n)_ |
+| |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)| [JavaScript](algorithms/implementation/utopian-tree.js) | Easy | 20 | _O(1)_ |
+| |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)| [JavaScript](algorithms/implementation/designer-pdf-viewer.js) | Easy | 20 | |
+| |[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)| [JavaScript](algorithms/implementation/the-hurdle-race.js) | Easy | 15 | _O(1)_ |
+| |[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)| [JavaScript](algorithms/implementation/climbing-the-leaderboard.js) | Medium | 20 | _O(n + log(m))_ |
+| |[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)| [JavaScript](algorithms/implementation/picking-numbers.js) | Easy | 20 | _O(1)_ |
+| ⭐ |[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)| [JavaScript](algorithms/implementation/magic-square-forming.js) | Medium | 20 | Using Édouard Lucas general formula to generate all possible magic squares of order 3 |
+| |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [JavaScript](algorithms/implementation/cats-and-a-mouse.js) | Easy | 15 | _O(1)_ |
+| |[Eletronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [JavaScript](algorithms/implementation/electronics-shop.js) | Easy | 15 | |
+| |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [JavaScript](algorithms/implementation/counting-valleys.js) | Easy | 15 | _O(n)_ |
+| |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [JavaScript](algorithms/implementation/drawing-book.js) | Easy | 10 | _O(1)_ |
+| |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [JavaScript](algorithms/implementation/sock-merchant.js) | Easy | 10 | _O(1)_ |
+| |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [JavaScript](algorithms/implementation/bon-appetit.js) | Easy | 10 | _O(n)_ |
+| |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [JavaScript](algorithms/implementation/day-of-the-programmer.js) | Easy | 10 | _O(1)_ |
+| |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [JavaScript](algorithms/implementation/migratory-birds.js) | Easy | 10 | |
+| |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [JavaScript](algorithms/implementation/divisible-sum-pairs.js) | Easy | 10 | |
+| |[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [JavaScript](algorithms/implementation/the-birthday-bar.js) | Easy | 10 | ||
+| |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [JavaScript](algorithms/implementation/breaking-best-and-worst-records.js) | Easy | 10 | _O(n)_ |
+| |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [JavaScript](algorithms/implementation/between-two-sets.js) | Easy | 10 | Using Euclid's division algorithm for greatest common divisor |
+| |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [JavaScript](algorithms/implementation/kangaroo.js) | Easy | 10 |  |
+| |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [JavaScript](algorithms/implementation/apple-and-orange.js) | Easy | 10 | |
+| |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [JavaScript](algorithms/implementation/grading.js) | Easy | 10 |  |
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
