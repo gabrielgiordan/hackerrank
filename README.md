@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-74-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-75-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge"
 </p>
@@ -37,14 +37,9 @@
 - [Day 8: Least Square Regression Line](10-days-of-statistics/s10-least-square-regression-line.js)
 - [Day 9: Multiple Linear Regression (Last day)](10-days-of-statistics/s10-multiple-linear-regression.js)
 
-## Interview Preparation Kit
-- [2D Array - DS](interview-preparation-kit/2d-array.js)
-- [Arrays: Left Rotation](interview-preparation-kit/array-left-rotation.js)
+---
 
-## Algorithms
-
-### Constructive Algorithms
-- [New Year Chaos](algorithms/constructive-algorithms/new-year-chaos.js)
+# Algorithms
 
 ## Implementation
 |   | Problem         | Solution | Difficulty | Points | Note |
@@ -66,7 +61,7 @@
 | |[Sequence Equation](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [JavaScript](algorithms/implementation/permutation-equation.js) | Easy | 20 | |
 | |[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)| [JavaScript](algorithms/implementation/circular-array-rotation.js) | Easy | 20 | |
 | |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [JavaScript](algorithms/implementation/save-the-prisoner.js) | Easy | 15 | _O(1)_ |
-| ⭐ |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| [JavaScript](algorithms/implementation/save-the-prisoner.js) | Easy | 15 | Alternative way to solve it using this integer sequence formula: https://oeis.org/A061418 |
+| ⭐ |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| [JavaScript](algorithms/implementation/strange-advertising.js) | Easy | 15 | Alternative way to solve it using this integer sequence formula: https://oeis.org/A061418 |
 | |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| [JavaScript](algorithms/implementation/beautiful-days-at-the-movies.js) | Easy | 15 | _O(n)_ |
 | |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| [JavaScript](algorithms/implementation/angry-professor.js) | Easy | 20 | _O(n)_ |
 | |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)| [JavaScript](algorithms/implementation/utopian-tree.js) | Easy | 20 | _O(1)_ |
@@ -91,12 +86,29 @@
 | |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [JavaScript](algorithms/implementation/apple-and-orange.js) | Easy | 10 | |
 | |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [JavaScript](algorithms/implementation/grading.js) | Easy | 10 |  |
 
-### Warmup
-- [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
-- [A Very Big Sum](algorithms/warmup/a-very-big-sum.js)
-- [Diagonal Difference](algorithms/warmup/diagonal-difference.js)
-- [Plus Minus](algorithms/warmup/plus-minus.js)
-- [Staircase](algorithms/warmup/staircase.js)
-- [Mini-Max Sum](algorithms/warmup/mini-max-sum.js)
-- [Birthday Cake Candles](algorithms/warmup/birthday-cake-candles.js)
-- [Time Conversion](algorithms/warmup/time-conversion.js)
+## Constructive Algorithms
+|   | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)| [JavaScript](algorithms/constructive-algorithms/new-year-chaos.js) | Medium | 40 | |
+
+## Warmup
+|   | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [JavaScript](algorithms/warmup/time-conversion.js) | Easy | 15 | |
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| [JavaScript](algorithms/warmup/birthday-cake-candles.js) | Easy | 10 | |
+|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [JavaScript](algorithms/warmup/mini-max-sum.js) | Easy | 10 | |
+|  |[Staircase](https://www.hackerrank.com/challenges/staircase/problem)| [JavaScript](algorithms/warmup/staircase.js) | Easy | 10 | |
+|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [JavaScript](algorithms/warmup/plus-minus.js) | Easy | 10 | |
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)| [JavaScript](algorithms/warmup/diagonal-difference.js) | Easy | 10 | |
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)| [JavaScript](algorithms/warmup/a-very-big-sum.js) | Easy | 10 | |
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets.js/problem)| [JavaScript](algorithms/warmup/compare-the-triplets.js) | Easy | 10 | |
+
+---
+
+# Interview Preparation Kit
+
+## Arrays
+|   | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| [JavaScript](interview-preparation-kit/array-left-rotation.js) | Easy | 15 | |
+|  |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| [JavaScript](interview-preparation-kit/2d-array.js) | Easy | 15 | |
