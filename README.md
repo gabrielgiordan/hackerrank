@@ -12,30 +12,32 @@
   Efficient HackerRank solutions in JavaScript, maintained by <a alt="HackerRank Profile" href="https://www.hackerrank.com/gabrielgiordano" >Gabriel Giordano</a>
 </p>
 
-## 10 Days of Statistics
-- [Day 0: Mean, Median, and Mode](10-days-of-statistics/s10-basic-statistics.js)
-- [Day 0: Weighted Mean](10-days-of-statistics/s10-weighted-mean.js)
-- [Day 1: Quartiles](10-days-of-statistics/s10-quartiles.js)
-- [Day 1: Interquartile Range](10-days-of-statistics/s10-interquartile-range.js)
-- [Day 1: Standard Deviation](10-days-of-statistics/s10-standard-deviation.js)
-- [Day 2: Basic Probability](10-days-of-statistics/s10-mcq-1.js)
-- [Day 2: More Dice](10-days-of-statistics/s10-mcq-2.js)
-- [Day 2: Compound Event Probability](10-days-of-statistics/s10-mcq-3.js)
-- [Day 4: Binomial Distribution I](10-days-of-statistics/s10-binomial-distribution-1.js)
-- [Day 4: Binomial Distribution II](10-days-of-statistics/s10-binomial-distribution-2.js)
-- [Day 4: Geometric Distribution I](10-days-of-statistics/s10-geometric-distribution-1.js)
-- [Day 4: Geometric Distribution II](10-days-of-statistics/s10-geometric-distribution-2.js)
-- [Day 5: Poison Distribution I](10-days-of-statistics/s10-poisson-distribution-1.js)
-- [Day 5: Poison Distribution II](10-days-of-statistics/s10-poisson-distribution-2.js)
-- [Day 5: Normal Distribution I](10-days-of-statistics/s10-normal-distribution-1.js)
-- [Day 5: Normal Distribution II](10-days-of-statistics/s10-normal-distribution-2.js)
-- [Day 6: The Central Limit Theorem I](10-days-of-statistics/s10-the-central-limit-theorem-1.js)
-- [Day 6: The Central Limit Theorem II](10-days-of-statistics/s10-the-central-limit-theorem-2.js)
-- [Day 6: The Central Limit Theorem III](10-days-of-statistics/s10-the-central-limit-theorem-3.js)
-- [Day 7: Pearson Correlation Coefficient I](10-days-of-statistics/s10-pearson-correlation-coefficient.js)
-- [Day 7: Spearman's Rank Correlation Coefficient](10-days-of-statistics/s10-spearman-rank-correlation-coefficient.js)
-- [Day 8: Least Square Regression Line](10-days-of-statistics/s10-least-square-regression-line.js)
-- [Day 9: Multiple Linear Regression (Last day)](10-days-of-statistics/s10-multiple-linear-regression.js)
+# 10 Days of Statistics
+|   | Day | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---:|:---------------:|:--------:|:----------:|:------:|:----:|
+| ⭐ | 9 |[Multiple Linear Regression (Last day)](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)| [JavaScript](10-days-of-statistics/s10-multiple-linear-regression.js) | Medium | 30 | Implementation of a research from Ahmad Farooq and Khan Hamid, from C to JavaScript with some custom modifications |
+| | 8 |[Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)| [JavaScript](10-days-of-statistics/s10-least-square-regression-line.js) | Easy | 30 | |
+| | 7 |[Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)| [JavaScript](10-days-of-statistics/s10-spearman-rank-correlation-coefficient.js) | Easy | 30 | |
+| | 7 |[Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)| [JavaScript](10-days-of-statistics/s10-pearson-correlation-coefficient.js) | Easy | 30 | |
+| | 6 |[The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)| [JavaScript](10-days-of-statistics/s10-the-central-limit-theorem-3.js) | Easy | 30 | |
+| | 6 |[The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)| [JavaScript](10-days-of-statistics/s10-the-central-limit-theorem-2.js) | Easy | 30 | |
+| | 6 |[The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem)| [JavaScript](10-days-of-statistics/s10-the-central-limit-theorem-1.js) | Easy | 30 | |
+| | 5 |[Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)| [JavaScript](10-days-of-statistics/s10-normal-distribution-2.js) | Easy | 30 | |
+| | 5 |[Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)| [JavaScript](10-days-of-statistics/s10-normal-distribution-1.js) | Easy | 30 | |
+| | 5 |[Poison Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)| [JavaScript](10-days-of-statistics/s10-poisson-distribution-2.js) | Easy | 30 | |
+| | 5 |[Poison Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)| [JavaScript](10-days-of-statistics/s10-poisson-distribution-1.js) | Easy | 30 | |
+| | 4 |[Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)| [JavaScript](10-days-of-statistics/s10-geometric-distribution-2.js) | Easy | 30 | |
+| | 4 |[Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)| [JavaScript](10-days-of-statistics/s10-geometric-distribution-1.js) | Easy | 30 | |
+| | 4 |[Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)| [JavaScript](10-days-of-statistics/s10-binomial-distribution-2.js) | Easy | 30 | |
+| | 4 |[Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)| [JavaScript](10-days-of-statistics/s10-binomial-distribution-1.js) | Easy | 30 | |
+| | 2 |[Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem)| [JavaScript](10-days-of-statistics/s10-mcq-3.js) | | | |
+| | 2 |[More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem)| [JavaScript](10-days-of-statistics/s10-mcq-2.js) | | | |
+| | 2 |[Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem)| [JavaScript](10-days-of-statistics/s10-mcq-1.js) |  | | |
+| | 1 |[Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)| [JavaScript](10-days-of-statistics/s10-standard-deviation.js) | Easy | 30 | |
+| | 1 |[Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)| [JavaScript](10-days-of-statistics/s10-interquartile-range.js) | Easy | 30 | |
+| | 1 |[Quartiles](https://www.hackerrank.com/challenges/s10-quartiles.js/problem)| [JavaScript](10-days-of-statistics/s10-quartiles.js) | Easy | 30 | |
+| | 0 |[Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)| [JavaScript](10-days-of-statistics/s10-weighted-mean.js) | Easy | 30 | |
+| | 0 |[ Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)| [JavaScript](10-days-of-statistics/s10-basic-statistics.js) | Easy | 30 | |
 
 ---
 
@@ -46,7 +48,7 @@
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
 | ⭐ |[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)| [JavaScript](algorithms/implementation/matrix-rotation-algo.js) | Hard | 80 | Math solution to the problem, _O(1)_ if the loop to print the result isn't considered, otherwise _O(m*n)_ |
 | ⭐ |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [JavaScript](algorithms/implementation/acm-icpc-team.js) | Easy | 25 | Using bitwise operations, and a custom Hamming Weight implementation to count ones, because the HackerRank's v8 version hasn't yet a BigInt implementation. Best case _O(n^2)_ where _n_ is the topics length |
-| ⭐ |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [JavaScript](algorithms/implementation/queens-attack-2.js) | Medium | 30 | _O(k)_, where _k_ is the number of obstacles |
+| ⭐ |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [JavaScript](algorithms/implementation/queens-attack-2.js) | Medium | 30 | Math solution to the problem, _O(k)_, where _k_ is the number of obstacles |
 | |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [JavaScript](algorithms/implementation/equality-in-a-array.js) | Easy | 20 | _O(n)_ |
 | ⭐ |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [JavaScript](algorithms/implementation/jumping-on-the-clouds.js) | Easy | 20 | _O(log n)_ |
 | ⭐ |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [JavaScript](algorithms/implementation/repeated-string.js) | Easy | 20 | The algorithm doesn't count the string a second time, both best and worst case is _O(n)_ where _n_ is the length of the string |
