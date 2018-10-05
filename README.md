@@ -87,6 +87,7 @@
 - [Equalize the Array](algorithms/implementation/equality-in-a-array.js)
 - [Queen's Attack II](algorithms/implementation/queens-attack-2.js)
 - [ACM ICPC Team](algorithms/implementation/acm-icpc-team.js)
+- [Matrix Layer Rotation](algorithms/implementation/matrix-rotation-algo.js)
 
 ### Warmup
 - [Compare the Triplets](algorithms/warmup/compare-the-triplets.js)
