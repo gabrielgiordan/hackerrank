@@ -107,6 +107,18 @@
 
 ---
 
+# Mathematics
+
+|   | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem)| [JavaScript](Mathematics/game-with-cells.js) | Easy | 10 | |
+|  |[Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)| [JavaScript](Mathematics/lowest-triangle.js) | Easy | 10 | |
+|  |[Handshake](https://www.hackerrank.com/challenges/handshake/problem)| [JavaScript](Mathematics/handshake.js) | Easy | 10 | |
+|  |[Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)| [JavaScript](Mathematics/maximum-draws.js) | Easy | 5 | |
+|  |[Find the Point](https://www.hackerrank.com/challenges/find-point/problem)| [JavaScript](Mathematics/find-point.js) | Easy | 5 | |
+
+---
+
 # Interview Preparation Kit
 
 ## Arrays
