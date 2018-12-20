@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-80-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-81-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge"
 </p>
@@ -111,11 +111,11 @@
 
 |   | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
-|  |[Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem)| [JavaScript](Mathematics/game-with-cells.js) | Easy | 10 | |
-|  |[Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)| [JavaScript](Mathematics/lowest-triangle.js) | Easy | 10 | |
-|  |[Handshake](https://www.hackerrank.com/challenges/handshake/problem)| [JavaScript](Mathematics/handshake.js) | Easy | 10 | |
-|  |[Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)| [JavaScript](Mathematics/maximum-draws.js) | Easy | 5 | |
-|  |[Find the Point](https://www.hackerrank.com/challenges/find-point/problem)| [JavaScript](Mathematics/find-point.js) | Easy | 5 | |
+|  |[Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem)| [JavaScript](mathematics/game-with-cells.js) | Easy | 10 | |
+|  |[Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)| [JavaScript](mathematics/lowest-triangle.js) | Easy | 10 | |
+|  |[Handshake](https://www.hackerrank.com/challenges/handshake/problem)| [JavaScript](mathematics/handshake.js) | Easy | 10 | |
+|  |[Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)| [JavaScript](mathematics/maximum-draws.js) | Easy | 5 | |
+|  |[Find the Point](https://www.hackerrank.com/challenges/find-point/problem)| [JavaScript](mathematics/find-point.js) | Easy | 5 | |
 
 ---
 
@@ -124,5 +124,6 @@
 ## Arrays
 |   | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[Minimun Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| [JavaScript](interview-preparation-kit/minimum-swaps-2.js) | Medium | 40 | |
 |  |[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| [JavaScript](interview-preparation-kit/array-left-rotation.js) | Easy | 15 | |
 |  |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| [JavaScript](interview-preparation-kit/2d-array.js) | Easy | 15 | |
