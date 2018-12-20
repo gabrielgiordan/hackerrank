@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-81-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-82-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge"
 </p>
@@ -49,6 +49,7 @@
 | ⭐ |[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)| [JavaScript](algorithms/implementation/matrix-rotation-algo.js) | Hard | 80 | Math solution to the problem, _O(1)_ if the loop to print the result isn't considered, otherwise _O(m*n)_ |
 | ⭐ |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [JavaScript](algorithms/implementation/acm-icpc-team.js) | Easy | 25 | Using bitwise operations, and a custom Hamming Weight implementation to count ones, because the HackerRank's v8 version hasn't yet a BigInt implementation. Best case _O(n^2)_ where _n_ is the topics length |
 | ⭐ |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [JavaScript](algorithms/implementation/queens-attack-2.js) | Medium | 30 | Math solution to the problem, _O(k)_, where _k_ is the number of obstacles |
+| ⭐ |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [JavaScript](algorithms/implementation/kaprekar-numbers.js) | Easy | 30 | Math and very performatic solution, without using Strings nor brute force, _O(n)_, where n = q - p |
 | |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [JavaScript](algorithms/implementation/equality-in-a-array.js) | Easy | 20 | _O(n)_ |
 | ⭐ |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [JavaScript](algorithms/implementation/jumping-on-the-clouds.js) | Easy | 20 | _O(log n)_ |
 | ⭐ |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [JavaScript](algorithms/implementation/repeated-string.js) | Easy | 20 | The algorithm doesn't count the string a second time, both best and worst case is _O(n)_ where _n_ is the length of the string |
