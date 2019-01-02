@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-85-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-86-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge"
 </p>
@@ -62,6 +62,7 @@
 | |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [JavaScript](algorithms/implementation/sherlock-and-squares.js) | Easy | 20 | _O(1)_ |
 | |[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)| [JavaScript](algorithms/implementation/append-and-delete.js) | Easy | 20 | _O(min(s, t))_ |
 | |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [JavaScript](algorithms/implementation/extra-long-factorials.js) | Medium | 20 |  |
+| |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [JavaScript](algorithms/implementation/chocolate-feast.js) | Easy | 25 | _O(1)_ |
 | |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [JavaScript](algorithms/implementation/find-digits.js) | Easy | 25 | _O(n)_ |
 | |[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [JavaScript](algorithms/implementation/jumping-on-the-clouds-revisited.js) | Easy | 15 | _O(n / k)_ where _k_ is the number of jumps |
 | |[Sequence Equation](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [JavaScript](algorithms/implementation/permutation-equation.js) | Easy | 20 | |
