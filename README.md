@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-89-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-90-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge">
 </p>
@@ -97,6 +97,7 @@
 ## Data Structures
 |   | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| [JavaScript](algorithms/data-structures/sparse-arrays.js) | Medium | 25 | |
 |  |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)| [JavaScript](algorithms/data-structures/dynamic-array.js) | Easy | 15 | |
 |  |[Array DS](https://www.hackerrank.com/challenges/array-ds/problem)| [JavaScript](algorithms/data-structures/arrays-ds.js) | Easy | 10 | |
 
