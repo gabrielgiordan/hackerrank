@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-87-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-88-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge">
 </p>
@@ -93,6 +93,11 @@
 | |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [JavaScript](algorithms/implementation/kangaroo.js) | Easy | 10 |  |
 | |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [JavaScript](algorithms/implementation/apple-and-orange.js) | Easy | 10 | |
 | |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [JavaScript](algorithms/implementation/grading.js) | Easy | 10 |  |
+
+## Data Structures
+|   | Problem         | Solution | Difficulty | Points | Note |
+|-- |:---------------:|:--------:|:----------:|:------:|:----:|
+|  |[Array DS](https://www.hackerrank.com/challenges/array-ds/problem)| [JavaScript](algorithms/data-structures/arrays-ds.js) | Easy | 10 | |
 
 ## Constructive Algorithms
 |   | Problem         | Solution | Difficulty | Points | Note |
