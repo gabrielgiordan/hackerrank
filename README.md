@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-91-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-92-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge">
 </p>
@@ -53,6 +53,7 @@
 | |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [JavaScript](algorithms/implementation/equality-in-a-array.js) | Easy | 20 | _O(n)_ |
 | ⭐ |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [JavaScript](algorithms/implementation/jumping-on-the-clouds.js) | Easy | 20 | _O(log n)_ |
 | ⭐ |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [JavaScript](algorithms/implementation/repeated-string.js) | Easy | 20 | The algorithm doesn't count the string a second time, both best and worst case is _O(n)_ where _n_ is the length of the string |
+|  |[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)| [JavaScript](algorithms/implementation/organizing-containers-of-balls.js) | Medium | 30 |  |
 |  |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)| [JavaScript](algorithms/implementation/beautiful-triplets.js) | Easy | 20 | _O(n)_ |
 |  |[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)| [JavaScript](algorithms/implementation/minimum-distances.js) | Easy | 20 | _O(n)_ |
 |  |[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)| [JavaScript](algorithms/implementation/halloween-sale.js) | Easy | 20 | _O(1)_ |
