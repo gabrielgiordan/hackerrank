@@ -9,7 +9,7 @@
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge">
 </p>
 <p align="center">
-  Efficient HackerRank solutions in JavaScript, maintained by <a alt="HackerRank Profile" href="https://www.hackerrank.com/gabrielgiordano" >Gabriel Giordano</a>
+  Efficient HackerRank solutions in JavaScript programmed by <a alt="HackerRank Profile" href="https://www.hackerrank.com/gabrielgiordano" >Gabriel Giordano</a>
 </p>
 
 # 10 Days of Statistics
